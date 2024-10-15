@@ -1,5 +1,2 @@
 (o código a pôr no git bash era "git clone (link do repo)"
-(depois era "git add .")
-(depois foi "git commit -m 'Mudanças feitas'")
-(e depois "git push")
 Olá Mundo

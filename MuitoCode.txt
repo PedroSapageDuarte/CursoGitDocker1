@@ -1,0 +1,2 @@
+(o código a pôr no git bash era "git clone (link do repo)"
+Olá Mundo

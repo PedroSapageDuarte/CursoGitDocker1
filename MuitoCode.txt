@@ -1,2 +1,7 @@
 (o código a pôr no git bash era "git clone (link do repo)"
+(depois era "git add .")
+(depois foi "git commit -m 'Mudanças feitas'")
+(e depois "git push")
+(se quiser apagar, copio o token do commit e faço "git revert (token)")
+(depois clico no esc; dois pontos; wq; enter)
 Olá Mundo

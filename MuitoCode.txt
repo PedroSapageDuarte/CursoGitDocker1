@@ -2,6 +2,9 @@
 (depois era "git add .")
 (depois foi "git commit -m 'Mudanças feitas'")
 (e depois "git push")
-(se quiser apagar, copio o token do commit e faço "git revert (token)")
+(se quiser apagar um commit, copio o token do commit e faço "git revert (token)")
 (depois clico no esc; dois pontos; wq; enter)
-Olá Mundo
+(para criar uma branch digo "git checkout -b (nome da branch)"; "git checkout main" para voltar para a branch do main)
+("git merge main" para juntar a nossa branch com o main)
+
+Olá Vila Real
